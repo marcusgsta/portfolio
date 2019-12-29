@@ -33,7 +33,7 @@ h2 {
 
 main {
   background-color: #186c8e;
-  background-image: url("/images/vincent-guth-uhoILl3HUZM-unsplash.jpg");
+  background-image: url("images/vincent-guth-uhoILl3HUZM-unsplash.jpg");
   background-blend-mode: multiply;
   background-size: cover;
   display: grid;
